@@ -1,6 +1,6 @@
 title: "AIツール使用感レポート"
 description: "各種AIツールの使用感レポートをまとめるサイト"
-baseurl: ""
+baseurl: "/AI_tool_usage_experience"
 plugins: []
 markdown: kramdown
 exclude: ["README.md"]
